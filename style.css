@@ -1,0 +1,43 @@
+
+.poster{
+    margin-left: 50px;
+}
+
+
+
+.first{
+    height: 202px;
+    width: auto;
+    margin-left: 160px; 
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.second{
+    height: 202px;
+    width: auto;
+        margin-left: 160px;
+            margin-top: 50px;
+            margin-bottom: 50px;
+
+
+
+}
+
+.phoo{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    gap: 20px;
+
+}
+
+.btn {
+    display:flex;
+    justify-content: center;
+  margin-top: 70px;
+  text-align: center;
+  margin-top: 50px;
+   
+
+}
